@@ -1,0 +1,25 @@
+﻿=========================================
+MEMBER 6 - Full-Stack Developer (Analytics & Inventory)
+=========================================
+
+YOU MUST ONLY EDIT THESE FILES:
+---------------------------------
+src/main/java/com/mediflow/controller/SupplierController.java
+src/main/java/com/mediflow/controller/ReviewController.java
+src/main/java/com/mediflow/model/Supplier.java
+src/main/java/com/mediflow/model/LocalSupplier.java
+src/main/java/com/mediflow/model/InternationalSupplier.java
+src/main/java/com/mediflow/model/Review.java
+src/main/java/com/mediflow/model/ProductReview.java
+src/main/java/com/mediflow/model/ServiceReview.java
+src/main/java/com/mediflow/service/SupplierService.java
+src/main/java/com/mediflow/service/ReviewService.java
+src/main/webapp/WEB-INF/views/suppliers.jsp
+src/main/webapp/WEB-INF/views/supplier-form.jsp
+src/main/webapp/WEB-INF/views/product-form.jsp
+data/suppliers.txt
+
+DO NOT TOUCH OTHER FILES!
+=========================================
+Run: mvnw.cmd spring-boot:run
+URL: http://localhost:8080
