@@ -1,0 +1,16 @@
+﻿=========================================
+MEMBER 3 - Backend Developer (Orders & Operations)
+=========================================
+
+YOU MUST ONLY EDIT THESE FILES:
+---------------------------------
+src/main/java/com/mediflow/controller/OrderController.java
+src/main/java/com/mediflow/model/Order.java
+src/main/java/com/mediflow/model/OrderItem.java
+src/main/java/com/mediflow/service/OrderService.java
+data/orders.txt
+
+DO NOT TOUCH OTHER FILES!
+=========================================
+Run: mvnw.cmd spring-boot:run
+URL: http://localhost:8080
