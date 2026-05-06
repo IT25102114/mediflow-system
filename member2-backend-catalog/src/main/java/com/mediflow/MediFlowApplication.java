@@ -24,6 +24,6 @@ public class MediFlowApplication {
         System.out.println("===========================================");
         System.out.println("  MediFlow Online Medicine Store Started!");
         System.out.println("  URL: http://localhost:8080");
-        System.out.println("===========================================");
+        System.out.println("============================================");
     }
 }
