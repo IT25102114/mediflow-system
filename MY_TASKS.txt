@@ -1,0 +1,18 @@
+﻿=========================================
+MEMBER 4 - Frontend Developer (Customer Experience)
+=========================================
+
+YOU MUST ONLY EDIT THESE FILES:
+---------------------------------
+src/main/webapp/WEB-INF/views/home.jsp
+src/main/webapp/WEB-INF/views/products.jsp
+src/main/webapp/WEB-INF/views/product-detail.jsp
+src/main/webapp/WEB-INF/views/checkout.jsp
+src/main/webapp/WEB-INF/views/review-form.jsp
+src/main/webapp/WEB-INF/views/reviews.jsp
+src/main/resources/static/css/style.css
+
+DO NOT TOUCH OTHER FILES!
+=========================================
+Run: mvnw.cmd spring-boot:run
+URL: http://localhost:8080
