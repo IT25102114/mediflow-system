@@ -35,7 +35,7 @@
             <scope>provided</scope>
         </dependency>
 
-        <!-- JSTL for JSP -->
+         <!-- JSTL for JSP -->
         <dependency>
             <groupId>jakarta.servlet.jsp.jstl</groupId>
             <artifactId>jakarta.servlet.jsp.jstl-api</artifactId>
