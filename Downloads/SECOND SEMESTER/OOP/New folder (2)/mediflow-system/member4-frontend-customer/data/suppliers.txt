@@ -1,0 +1,4 @@
+1|PharmaCo Ltd|0112456789|info@pharmaco.lk|42 Industrial Zone, Ratmalana|true|2026-01-01T00:00:00|LOCAL|Colombo|BR-2024-1234
+2|Lanka Pharma|0114567890|contact@lankapharma.lk|15 Pharma Lane, Moratuwa|true|2026-01-05T00:00:00|LOCAL|Colombo|BR-2024-5678
+3|GlaxoSmithKline|+44-20-8047-5000|gsk@gsk.com|980 Great West Road, London|true|2026-01-10T00:00:00|INTERNATIONAL|United Kingdom|IL-2024-GSK|GBP
+4|Nature's Best|+1-800-555-0199|info@naturesbest.com|125 Health Ave, California|true|2026-02-01T00:00:00|INTERNATIONAL|United States|IL-2024-NB|USD
