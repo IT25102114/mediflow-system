@@ -1,0 +1,18 @@
+﻿=========================================
+MEMBER 5 - Frontend Developer (Dashboards & Delivery)
+=========================================
+
+YOU MUST ONLY EDIT THESE FILES:
+---------------------------------
+src/main/java/com/mediflow/controller/AdminController.java
+src/main/webapp/WEB-INF/views/admin/dashboard.jsp
+src/main/webapp/WEB-INF/views/admin/products.jsp
+src/main/webapp/WEB-INF/views/admin/orders.jsp
+src/main/webapp/WEB-INF/views/admin/users.jsp
+src/main/webapp/WEB-INF/views/orders.jsp
+src/main/webapp/WEB-INF/views/order-detail.jsp
+
+DO NOT TOUCH OTHER FILES!
+=========================================
+Run: mvnw.cmd spring-boot:run
+URL: http://localhost:8080
