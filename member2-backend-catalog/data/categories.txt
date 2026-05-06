@@ -1,6 +1,0 @@
-1|Pain Relief|Medicines for headaches and body pain|💊|true|1
-2|Antibiotics|Antibiotic medicines for infections|🦠|true|2
-3|Vitamins & Supplements|Daily vitamins and health supplements|🍎|true|3
-4|Skin Care|Dermatological and skin care products|✨|true|4
-5|Respiratory|Medicines for cough cold and breathing|🫁|true|5
-6|Digestive Health|Gastric antacid and digestive medicines|💉|true|6

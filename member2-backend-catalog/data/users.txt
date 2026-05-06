@@ -1,3 +1,0 @@
-1|Admin User|admin@mediflow.lk|$2a$10$xzOcG66DlzURWhLqPIbC1.kAD80CTjV5q7CDiO0vYCGG8x5mHrT9m|0771234567|123 Main St|Colombo|true|2026-01-01T00:00:00|admin|General|FULL
-2|Kasun Perera|kasun@gmail.com|$2a$10$xzOcG66DlzURWhLqPIbC1.kAD80CTjV5q7CDiO0vYCGG8x5mHrT9m|0712345678|45 Galle Road|Colombo|true|2026-01-15T10:30:00|customer|REGULAR|2
-3|Nimali Silva|nimali@gmail.com|$2a$10$xzOcG66DlzURWhLqPIbC1.kAD80CTjV5q7CDiO0vYCGG8x5mHrT9m|0723456789|78 Kandy Road|Kandy|true|2026-02-01T14:00:00|customer|PREMIUM|5
