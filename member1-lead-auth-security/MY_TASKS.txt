@@ -1,0 +1,23 @@
+﻿=========================================
+MEMBER 1 - Lead Developer (Auth & Security)
+=========================================
+
+YOU MUST ONLY EDIT THESE FILES:
+---------------------------------
+src/main/java/com/mediflow/controller/AuthController.java
+src/main/java/com/mediflow/model/User.java
+src/main/java/com/mediflow/model/Admin.java
+src/main/java/com/mediflow/model/Customer.java
+src/main/java/com/mediflow/MediFlowApplication.java
+src/main/resources/application.properties
+src/main/webapp/WEB-INF/views/login.jsp
+src/main/webapp/WEB-INF/views/register.jsp
+src/main/webapp/WEB-INF/views/account.jsp
+src/main/webapp/WEB-INF/views/common/header.jsp
+src/main/webapp/WEB-INF/views/common/footer.jsp
+pom.xml
+
+DO NOT TOUCH OTHER FILES!
+=========================================
+Run: mvnw.cmd spring-boot:run
+URL: http://localhost:8080
